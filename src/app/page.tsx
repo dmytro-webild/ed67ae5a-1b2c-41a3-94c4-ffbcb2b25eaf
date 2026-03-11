@@ -73,28 +73,28 @@ export default function HomePage() {
               handle: "Small Holder Farmer, Haryana",
               testimonial: "Kisan AI ने मेरी फसल की उपज 25% बढ़ा दी। अब मुझे सही समय पर सही सलाह मिलता है।",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/man-greenhouse_1398-1871.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/man-greenhouse_1398-1871.jpg?_wi=1",
             },
             {
               name: "प्रिया शर्मा",
               handle: "Progressive Farmer, Punjab",
               testimonial: "Real-time market prices और government schemes की जानकारी एक जगह से मिलना बेहद कारगर है। मेरी आय में उल्लेखनीय वृद्धि हुई।",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/successful-confident-businesswoman-manages-financial-planning_482257-107979.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/successful-confident-businesswoman-manages-financial-planning_482257-107979.jpg?_wi=1",
             },
             {
               name: "विक्रम सिंह",
               handle: "Livestock Owner, UP",
               testimonial: "पशुचिकित्सा सलाह और पोषण गाइडेंस के कारण मेरे पशुओं का स्वास्थ्य बेहतर हो गया। परिवार की आय में 40% इजाफा हुआ।",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-indian-man-bazaar_23-2150913294.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-indian-man-bazaar_23-2150913294.jpg?_wi=1",
             },
             {
               name: "अमित पटेल",
               handle: "Young Farmer, Maharashtra",
               testimonial: "AI-powered insights ने मेरी खेती को आधुनिक बनाया। डेटा-ड्रिवन निर्णय लेना अब आसान है।",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/indian-woman-showing-isolated-copy-space-display-front-camera_482257-122375.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/indian-woman-showing-isolated-copy-space-display-front-camera_482257-122375.jpg?_wi=1",
             },
           ]}
           buttons={[
@@ -121,7 +121,7 @@ export default function HomePage() {
               id: 1,
               title: "Crop Advisory & Disease Detection",
               description: "Real-time crop health monitoring, pest & disease identification with treatment recommendations in Hindi, Punjabi, Marathi, Tamil, and regional languages.",
-              imageSrc: "http://img.b2bpic.net/free-photo/farmer-inspecting-tomato-plants-greenhouse_23-2152020402.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/farmer-inspecting-tomato-plants-greenhouse_23-2152020402.jpg?_wi=1",
             },
             {
               id: 2,
@@ -139,19 +139,19 @@ export default function HomePage() {
               id: 4,
               title: "Government Schemes & Subsidies",
               description: "Curated database of PM Kisan, crop insurance, fertilizer subsidies, and state-level agricultural schemes with eligibility checks and application guides.",
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-view-man-reading-from-clipboard_23-2148233496.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/medium-view-man-reading-from-clipboard_23-2148233496.jpg?_wi=1",
             },
             {
               id: 5,
               title: "Livestock Care & Veterinary Support",
               description: "Animal health diagnostics, vaccination schedules, feed optimization, and emergency veterinary guidance for cattle, goats, poultry, and dairy operations.",
-              imageSrc: "http://img.b2bpic.net/free-photo/farmer-cowshed-feeding-cows-farm_1303-30808.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/farmer-cowshed-feeding-cows-farm_1303-30808.jpg?_wi=1",
             },
             {
               id: 6,
               title: "Sustainable Farming Techniques",
               description: "Step-by-step guides on organic farming, soil health restoration, water harvesting, and profitable alternative crops for long-term sustainability.",
-              imageSrc: "http://img.b2bpic.net/free-photo/plant-garden-still-life_23-2148128683.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/plant-garden-still-life_23-2148128683.jpg?_wi=1",
             },
           ]}
         />
@@ -185,7 +185,7 @@ export default function HomePage() {
               price: "✓",
               rating: 5,
               reviewCount: "Quick",
-              imageSrc: "http://img.b2bpic.net/free-photo/nature-ecology-science-concept_273609-6425.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/nature-ecology-science-concept_273609-6425.jpg?_wi=1",
             },
             {
               id: "step-3",
@@ -245,7 +245,7 @@ export default function HomePage() {
               value: "8",
               title: "Languages Supported",
               description: "Hindi, Punjabi, Gujarati, Marathi, Tamil, Telugu, Kannada, Bengali",
-              imageSrc: "http://img.b2bpic.net/free-photo/two-workers-communicating-while-checking-growth-plants-plant-nursery_637285-1526.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/two-workers-communicating-while-checking-growth-plants-plant-nursery_637285-1526.jpg?_wi=1",
             },
           ]}
         />
@@ -267,42 +267,42 @@ export default function HomePage() {
               name: "राज कुमार",
               role: "Small Holder Farmer, 3 acres, Haryana",
               testimonial: "पिछले 2 साल में मेरी गेहूं की उपज 25% बढ़ गई। सही समय पर कीटनाशक और खाद की सलाह मिल जाती है। अब मेरा कर्ज भी कम हो गया।",
-              imageSrc: "http://img.b2bpic.net/free-photo/man-greenhouse_1398-1871.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/man-greenhouse_1398-1871.jpg?_wi=2",
             },
             {
               id: "2",
               name: "प्रिया शर्मा",
               role: "Progressive Farmer, 8 acres, Punjab",
               testimonial: "Market price alerts से मैं सही समय पर अपनी फसल बेचता हूं। Real-time data से मेरी आय 35% बढ़ गई। Government schemes की जानकारी से ₹1.5 लाख की subsidy मिल गई।",
-              imageSrc: "http://img.b2bpic.net/free-photo/successful-confident-businesswoman-manages-financial-planning_482257-107979.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/successful-confident-businesswoman-manages-financial-planning_482257-107979.jpg?_wi=2",
             },
             {
               id: "3",
               name: "विक्रम सिंह",
               role: "Livestock Owner, 12 cattle, UP",
               testimonial: "Veterinary guidance से मेरे पशुओं की बीमारियों में 60% कमी आई। Milk production में 40% वृद्धि हुई। परिवार की कुल आय दोगुनी हो गई।",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-indian-man-bazaar_23-2150913294.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-indian-man-bazaar_23-2150913294.jpg?_wi=2",
             },
             {
               id: "4",
               name: "अमित पटेल",
               role: "Young Farmer, 6 acres, Maharashtra",
               testimonial: "Organic farming guide से मैंने सफलतापूर्वक transition किया। Premium prices मिल रहे हैं। AI insights से sustainable और profitable दोनों बन गया।",
-              imageSrc: "http://img.b2bpic.net/free-photo/indian-woman-showing-isolated-copy-space-display-front-camera_482257-122375.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/indian-woman-showing-isolated-copy-space-display-front-camera_482257-122375.jpg?_wi=2",
             },
             {
               id: "5",
               name: "सीता देवी",
               role: "Vegetable Farmer, 2 acres, Karnataka",
               testimonial: "Weather predictions से मैं सही समय पर बीज बोता हूं। Crop failure का डर खत्म हो गया। अब हर महीने ₹15,000 तक कमाती हूं।",
-              imageSrc: "/placeholders/placeholder1.webp",
+              imageSrc: "/placeholders/placeholder1.webp?_wi=1",
             },
             {
               id: "6",
               name: "नरेश गुप्ता",
               role: "Dairy Farmer, 8 cows, Rajasthan",
               testimonial: "Vaccination schedule और feed optimization से milk quality improve हुई। Cooperative को premium price मिल रहा है। अब 5 गांव के किसान भी Kisan AI use कर रहे हैं।",
-              imageSrc: "/placeholders/placeholder1.webp",
+              imageSrc: "/placeholders/placeholder1.webp?_wi=2",
             },
           ]}
         />
@@ -317,7 +317,7 @@ export default function HomePage() {
           textboxLayout="default"
           useInvertedBackground={false}
           mediaPosition="right"
-          imageSrc="http://img.b2bpic.net/free-photo/close-up-young-gardener-selling-products_329181-16521.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/close-up-young-gardener-selling-products_329181-16521.jpg?_wi=1"
           imageAlt="Farmer learning to use Kisan AI on mobile device"
           mediaAnimation="slide-up"
           faqsAnimation="slide-up"
@@ -374,7 +374,7 @@ export default function HomePage() {
           description="Join 150K+ Indian farmers who are already using Kisan AI to boost yields, save money, and farm sustainably. Subscribe to our newsletter for weekly tips, weather alerts, and government scheme updates."
           background={{ variant: "sparkles-gradient" }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/smiley-agronomist-looking-away-cornfield_23-2148233386.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiley-agronomist-looking-away-cornfield_23-2148233386.jpg?_wi=1"
           imageAlt="Happy farmer with successful harvest celebration"
           mediaAnimation="slide-up"
           mediaPosition="right"
