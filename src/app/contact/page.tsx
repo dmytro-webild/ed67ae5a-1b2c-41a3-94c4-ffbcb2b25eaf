@@ -48,7 +48,7 @@ export default function ContactPage() {
           description="Get instant access to crop advisory, market prices, weather alerts, government schemes, and livestock care guidance. No credit card required. Your agricultural journey to profitability starts here."
           background={{ variant: "sparkles-gradient" }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/smiley-agronomist-looking-away-cornfield_23-2148233386.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiley-agronomist-looking-away-cornfield_23-2148233386.jpg?_wi=2"
           imageAlt="Happy farmer with successful harvest celebration"
           mediaAnimation="slide-up"
           mediaPosition="right"
@@ -67,7 +67,7 @@ export default function ContactPage() {
           textboxLayout="default"
           useInvertedBackground={false}
           mediaPosition="left"
-          imageSrc="http://img.b2bpic.net/free-photo/close-up-young-gardener-selling-products_329181-16521.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/close-up-young-gardener-selling-products_329181-16521.jpg?_wi=2"
           imageAlt="Farmer learning to use Kisan AI on mobile device"
           mediaAnimation="slide-up"
           faqsAnimation="slide-up"
