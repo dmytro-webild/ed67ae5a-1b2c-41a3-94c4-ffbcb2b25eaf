@@ -69,16 +69,16 @@ export default function HomePage() {
           testimonials={[
             {
               name: "राज कुमार",              handle: "Small Holder Farmer, Haryana",              testimonial: "Kisan AI ने मेरी फसल की उपज 25% बढ़ा दी। अब मुझे सही समय पर सही सलाह मिलता है।",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/man-greenhouse_1398-1871.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/man-greenhouse_1398-1871.jpg?_wi=1"},
             {
               name: "प्रिया शर्मा",              handle: "Progressive Farmer, Punjab",              testimonial: "Real-time market prices और government schemes की जानकारी एक जगह से मिलना बेहद कारगर है। मेरी आय में उल्लेखनीय वृद्धि हुई।",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/successful-confident-businesswoman-manages-financial-planning_482257-107979.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/successful-confident-businesswoman-manages-financial-planning_482257-107979.jpg?_wi=1"},
             {
               name: "विक्रम सिंह",              handle: "Livestock Owner, UP",              testimonial: "पशुचिकित्सा सलाह और पोषण गाइडेंस के कारण मेरे पशुओं का स्वास्थ्य बेहतर हो गया। परिवार की आय में 40% इजाफा हुआ।",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-indian-man-bazaar_23-2150913294.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-indian-man-bazaar_23-2150913294.jpg?_wi=1"},
             {
               name: "अमित पटेल",              handle: "Young Farmer, Maharashtra",              testimonial: "AI-powered insights ने मेरी खेती को आधुनिक बनाया। डेटा-ड्रिवन निर्णय लेना अब आसान है।",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/indian-woman-showing-isolated-copy-space-display-front-camera_482257-122375.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/indian-woman-showing-isolated-copy-space-display-front-camera_482257-122375.jpg?_wi=1"},
           ]}
           buttons={[
             { text: "अभी शुरू करें - Start Now", href: "/contact" },
@@ -199,22 +199,22 @@ export default function HomePage() {
           animationType="slide-up"
           testimonials={[
             {
-              id: "1",              name: "राज कुमार",              role: "Small Holder Farmer, 3 acres, Haryana",              testimonial: "पिछले 2 साल में मेरी गेहूं की उपज 25% बढ़ गई। सही समय पर कीटनाशक और खाद की सलाह मिल जाती है। अब मेरा कर्ज भी कम हो गया।",              imageSrc: "http://img.b2bpic.net/free-photo/man-greenhouse_1398-1871.jpg",              icon: CheckCircle,
+              id: "1",              name: "राज कुमार",              role: "Small Holder Farmer, 3 acres, Haryana",              testimonial: "पिछले 2 साल में मेरी गेहूं की उपज 25% बढ़ गई। सही समय पर कीटनाशक और खाद की सलाह मिल जाती है। अब मेरा कर्ज भी कम हो गया।",              imageSrc: "http://img.b2bpic.net/free-photo/man-greenhouse_1398-1871.jpg?_wi=2",              icon: CheckCircle,
             },
             {
-              id: "2",              name: "प्रिया शर्मा",              role: "Progressive Farmer, 8 acres, Punjab",              testimonial: "Market price alerts से मैं सही समय पर अपनी फसल बेचता हूं। Real-time data से मेरी आय 35% बढ़ गई। Government schemes की जानकारी से ₹1.5 लाख की subsidy मिल गई।",              imageSrc: "http://img.b2bpic.net/free-photo/successful-confident-businesswoman-manages-financial-planning_482257-107979.jpg",              icon: TrendingUp,
+              id: "2",              name: "प्रिया शर्मा",              role: "Progressive Farmer, 8 acres, Punjab",              testimonial: "Market price alerts से मैं सही समय पर अपनी फसल बेचता हूं। Real-time data से मेरी आय 35% बढ़ गई। Government schemes की जानकारी से ₹1.5 लाख की subsidy मिल गई।",              imageSrc: "http://img.b2bpic.net/free-photo/successful-confident-businesswoman-manages-financial-planning_482257-107979.jpg?_wi=2",              icon: TrendingUp,
             },
             {
-              id: "3",              name: "विक्रम सिंह",              role: "Livestock Owner, 12 cattle, UP",              testimonial: "Veterinary guidance से मेरे पशुओं की बीमारियों में 60% कमी आई। Milk production में 40% वृद्धि हुई। परिवार की कुल आय दोगुनी हो गई।",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-indian-man-bazaar_23-2150913294.jpg",              icon: Award,
+              id: "3",              name: "विक्रम सिंह",              role: "Livestock Owner, 12 cattle, UP",              testimonial: "Veterinary guidance से मेरे पशुओं की बीमारियों में 60% कमी आई। Milk production में 40% वृद्धि हुई। परिवार की कुल आय दोगुनी हो गई।",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-indian-man-bazaar_23-2150913294.jpg?_wi=2",              icon: Award,
             },
             {
-              id: "4",              name: "अमित पटेल",              role: "Young Farmer, 6 acres, Maharashtra",              testimonial: "Organic farming guide से मैंने सफलतापूर्वक transition किया। Premium prices मिल रहे हैं। AI insights से sustainable और profitable दोनों बन गया।",              imageSrc: "http://img.b2bpic.net/free-photo/indian-woman-showing-isolated-copy-space-display-front-camera_482257-122375.jpg",              icon: Leaf,
+              id: "4",              name: "अमित पटेल",              role: "Young Farmer, 6 acres, Maharashtra",              testimonial: "Organic farming guide से मैंने सफलतापूर्वक transition किया। Premium prices मिल रहे हैं। AI insights से sustainable और profitable दोनों बन गया।",              imageSrc: "http://img.b2bpic.net/free-photo/indian-woman-showing-isolated-copy-space-display-front-camera_482257-122375.jpg?_wi=2",              icon: Leaf,
             },
             {
-              id: "5",              name: "सीता देवी",              role: "Vegetable Farmer, 2 acres, Karnataka",              testimonial: "Weather predictions से मैं सही समय पर बीज बोता हूं। Crop failure का डर खत्म हो गया। अब हर महीने ₹15,000 तक कमाती हूं।",              imageSrc: "/placeholders/placeholder1.webp",              icon: Zap,
+              id: "5",              name: "सीता देवी",              role: "Vegetable Farmer, 2 acres, Karnataka",              testimonial: "Weather predictions से मैं सही समय पर बीज बोता हूं। Crop failure का डर खत्म हो गया। अब हर महीने ₹15,000 तक कमाती हूं।",              imageSrc: "/placeholders/placeholder1.webp?_wi=1",              icon: Zap,
             },
             {
-              id: "6",              name: "नरेश गुप्ता",              role: "Dairy Farmer, 8 cows, Rajasthan",              testimonial: "Vaccination schedule और feed optimization से milk quality improve हुई। Cooperative को premium price मिल रहा है। अब 5 गांव के किसान भी Kisan AI use कर रहे हैं।",              imageSrc: "/placeholders/placeholder1.webp",              icon: Users,
+              id: "6",              name: "नरेश गुप्ता",              role: "Dairy Farmer, 8 cows, Rajasthan",              testimonial: "Vaccination schedule और feed optimization से milk quality improve हुई। Cooperative को premium price मिल रहा है। अब 5 गांव के किसान भी Kisan AI use कर रहे हैं।",              imageSrc: "/placeholders/placeholder1.webp?_wi=2",              icon: Users,
             },
           ]}
         />
